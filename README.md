@@ -5,7 +5,8 @@ Presented `TwittDigest` at the [AI For Social Good Hackathon](https://krcgtv.com
 Idea pitch ppt and code is attached 
 
 
+<img width="429" alt="Screenshot 2023-09-06 at 5 13 49 PM" src="https://github.com/khawar56/TwittDigest/assets/22073166/fb02767c-8dde-4d32-b5f9-2aa235632711">
 
+</br>
 
-
-
+[twittdigest](https://github.com/khawar56/TwittDigest/assets/22073166/7ab077f5-d502-471c-8605-db84707ff17a)
